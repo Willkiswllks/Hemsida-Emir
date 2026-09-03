@@ -1,0 +1,46 @@
+* {
+    background-color: rgb(8, 65, 0);
+
+}
+
+h1 {
+
+    color: rgb(0, 173, 0);
+
+}
+
+h1:hover{
+
+    color: red
+
+}
+
+p {
+
+    color: rgb(0, 126, 27);
+
+}
+
+b {
+
+    color: rgb(0, 160, 85);
+
+}
+
+h2 {
+
+    color: rgb(0, 160, 85);
+
+}
+
+img {
+
+    border-style: groove;
+
+}
+
+i {
+
+    color: rgb(0, 160, 85);
+
+}
